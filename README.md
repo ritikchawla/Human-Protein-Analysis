@@ -1,7 +1,6 @@
 
-Human Protein Analysis Project</br>
-Worked on multi-label human protein prediction with 10 protein classes on the image-net dataset</br>
-Used Regularization, Data Augmentation and Normalization methods</br>
+- A multi-label human protein classifier on the image-net dataset capable of predicting Human Protein Image Labels.
+- Implemented regularization, data augmentation (rotations, flips, translations), and normalization methods for improved performance.
 Technologies: PyTorch, Pandas, Matplotlib</br>
 </br>
 
